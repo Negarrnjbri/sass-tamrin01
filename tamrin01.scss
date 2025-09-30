@@ -1,0 +1,31 @@
+$font-color: #428ded;
+$font-size: 50px;
+$font-family: "Playfair Display", serif;
+$font-weight: 700;
+$height: 500px;
+$bg-color: #efefef;
+$width: 800px;
+
+strong {
+    color: $font-color;
+    font-size: $font-size;
+    font-family: $font-family;
+    font-weight: $font-weight;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: $bg-color;
+    height: $height;
+    width: $width;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

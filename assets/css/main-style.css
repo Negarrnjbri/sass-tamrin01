@@ -1,0 +1,38 @@
+
+@font-face {
+    font-family: vazir;
+    src: url(../fonts/Vazir-Medium.eot)format('eot'),
+        url(../fonts/Vazir-Medium.woff)format('woff'),
+        url(../fonts/Vazir-Medium.woff2)format('woff2'),
+        url(../fonts/Vazir-Bold.woff2)format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.quicksand-uniquifier {
+   font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+*,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: vazir;
+    direction: rtl;
+}
+
+a {
+    text-decoration: none;
+}
+
+li,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+

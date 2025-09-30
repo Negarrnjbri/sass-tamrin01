@@ -1,0 +1,23 @@
+strong {
+  color: #428ded;
+  font-size: 50px;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #efefef;
+  height: 500px;
+  width: 800px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}/*# sourceMappingURL=tamrin01.css.map */
